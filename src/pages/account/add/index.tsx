@@ -46,7 +46,7 @@ export function AddAccount() {
           <a href="#" onClick={doBack}>Back</a>
         </div>
         <div css={cmdMainStyle}>
-          <TButton caption="Save" onclick={doSave} />
+          <TButton caption="Save 2" onclick={doSave} />
         </div>
       </div>
     </div>
